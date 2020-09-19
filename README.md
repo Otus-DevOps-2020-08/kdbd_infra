@@ -21,5 +21,5 @@ Host bastion
 Host someinternalhost
 	Hostname 10.130.0.29
 	User appuser
-	ProxyJump bastion
+	ProxyJump bastion 
 ```

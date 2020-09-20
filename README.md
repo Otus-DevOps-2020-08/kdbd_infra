@@ -41,3 +41,6 @@ yc compute instance create \
   --ssh-key ~/.ssh/appuser.pub
   --metadata-from-file user-data=./metadata.yaml
   ```
+
+  # Домашнее задание 5
+  

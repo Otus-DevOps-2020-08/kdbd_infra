@@ -1,7 +1,7 @@
 # kdbd_infra
 kdbd Infra repository
 
-# Домашнее задание 3
+# Домашнее задание 3  
 
 bastion_IP = 130.193.50.138  
 someinternalhost_IP = 10.130.0.29  

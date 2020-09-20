@@ -43,4 +43,10 @@ yc compute instance create \
   ```
 
   # Домашнее задание 5
+
+  Была подготовлена конфигурация для создания образа для установки приложения reddit.  
+  Образ создается при помощи packer.  
+  Команда для создания образа:  
+  ```packer build -var-file=variables.json ./ubuntu16.json```    
+  Перед запуском необходимо переменовать variables.json.example в variables.json и прописать там реальные значения.
   

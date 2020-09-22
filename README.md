@@ -51,4 +51,6 @@ yc compute instance create \
   Перед запуском необходимо переменовать variables.json.example в variables.json и прописать там реальные значения.
   
   # Домашнее задание 6
+
+  Подготовлена конфигурация terraform для создания инстанса в Yandex Cloud с Reddit app
   

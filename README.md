@@ -50,3 +50,6 @@ yc compute instance create \
   ```packer build -var-file=variables.json ./ubuntu16.json```    
   Перед запуском необходимо переменовать variables.json.example в variables.json и прописать там реальные значения.
   
+  # Домашнее задание 6
+
+  Подготовлена конфигурация terraform для создания инстанса в Yandex Cloud с Reddit app

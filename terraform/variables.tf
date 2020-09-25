@@ -27,3 +27,12 @@ variable subnet_id{
 variable service_account_key_file{
   description = "key .json"
 }
+variable app_disk_image {
+  description = "Disk image for reddit app"
+  default = "fd80idg2bhj9g0491pj4"
+}
+variable db_disk_image {
+  description = "Disk image for reddit db"
+  default = "fd833ukbeeehhitc0gm7"
+}
+

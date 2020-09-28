@@ -55,3 +55,6 @@ yc compute instance create \
   Подготовлена конфигурация terraform для создания инстанса в Yandex Cloud с Reddit app
 
   # Домашнее задание 7
+
+   Подготовлена конфигурация terraform  для нескольких серверов.
+   Созданы независимые конфигурации terraform  для prod  и stage

@@ -58,3 +58,5 @@ yc compute instance create \
 
    Подготовлена конфигурация terraform  для нескольких серверов.
    Созданы независимые конфигурации terraform  для prod  и stage
+
+  # Домашнее задание 8

@@ -79,4 +79,5 @@ yc compute instance create \
 
   Созданы плейбуки для provision packer и прописаны в конфигах packer
 
+  # Домашнее задание 10
 
